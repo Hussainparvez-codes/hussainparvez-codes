@@ -1,5 +1,7 @@
 ## Hi I'm Md Hussain Parvez 👋
 
+./banner.png
+
 
 - 🔭 I’m currently working on Type Script
 - 🌱 I’m currently learning  React
