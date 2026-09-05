@@ -1,6 +1,6 @@
 ## Hi I'm Md Hussain Parvez 👋
 
-./banner.png
+<img src="./banner.png" alt="Md Hussain Parvez Banner" width="100%">
 
 
 - 🔭 I’m currently working on Type Script
