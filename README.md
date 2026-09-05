@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Md Hussain Parvez</h1>
-
 <img src="./banner.png" alt="Md Hussain Parvez Banner" width="100%">
 
+<h1 align="center">Hi 👋, I'm Md Hussain Parvez</h1>
 
 - 🔭 I’m currently working on Type Script
 - 🌱 I’m currently learning  React
 - 👯 I’m looking to collaborate on webdevelop
 - 🤔 I’m looking for help with others
 - 💬 Ask me about HTML CSS JAVA SCRIPT , ES6
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me **hussainperves956@gmail.com**
+- 😄 Pronouns: He/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainparvez-codes&label=Profile%20views&color=0e75b6&style=flat" alt="hussainparvez-codes" /> </p>
-
-- 📫 How to reach me **hussainperves956@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
